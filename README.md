@@ -1,5 +1,9 @@
 # This is activity only. Don't do this at home
 ------------------------------------------------------------------------------------------------
+## This project is for educational purposes only.
+All activities documented here were conducted within the guidelines of our school policies.
+No part of this content is intended for commercial use or distribution.
+------------------------------------------------------------------------------------------------
 # Creating a repository snapshot
 ![creating](https://github.com/user-attachments/assets/988ef808-349f-4433-a344-9cf92c62c877)
 # No Code Snapshot
