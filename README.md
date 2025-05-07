@@ -1,6 +1,6 @@
-# This is activity only. Don't do this at home
+# ACTIVITY ONLY!!
 ------------------------------------------------------------------------------------------------
-## This project is for educational purposes only.
+### This project is for educational purposes only.
 All activities documented here were conducted within the guidelines of our school policies.
 No part of this content is intended for commercial use or distribution.
 ------------------------------------------------------------------------------------------------
